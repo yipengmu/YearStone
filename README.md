@@ -11,3 +11,9 @@
 * [2015.12.31@杭州 年末总结 - 新年计划](https://github.com/yipengmu/YearStone/blob/master/2015%E5%B9%B4%E6%80%BB%E7%BB%93.2015.12.31.md)
 
 * [2016.12.30@杭州 年末总结 - 最后一个工作日](https://github.com/yipengmu/YearStone/blob/master/2016%E5%B9%B4%E6%80%BB%E7%BB%93.2016.12.30.md)
+
+
+* [2017.12.16@杭州 年末总结 - 土豆回老家]
+(https://github.com/yipengmu/YearStone/blob/master/2017%E5%B9%B4%E6%80%BB%E7%BB%93.2017.12.16.md)
+
+
