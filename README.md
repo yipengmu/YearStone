@@ -17,4 +17,5 @@
 
 * [2018.12.30@杭州 年末总结 - 杭州的下雪天在家完成](https://github.com/yipengmu/YearStone/blob/master/2018%E5%B9%B4%E6%80%BB%E7%BB%93.2018.12.30.md)
 
+* [2019.12.29@杭州 年末总结 - Beta降生](https://github.com/yipengmu/YearStone/blob/master/2019%E5%B9%B4%E6%80%BB%E7%BB%93.2019.12.29.md)
 
